@@ -1,0 +1,57 @@
+.logo{
+    height: 50px;
+    width: 120px;
+    margin-left: 180px;
+    
+}
+.menu-bar{
+    margin-left: 300px;
+    font-weight: bolder;
+    color: black;
+}
+
+.carousel-icon{
+    margin-right: 80px;
+    background-color: #53a92c;
+}
+
+.carousel-icon1{
+    margin-left: 80px;
+    background-color: #53a92c;
+}
+.second-step{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.aboutForest{
+    color:green;
+}
+
+#third-step{
+    height: 1100px;
+    background-color: #f7f7f7;
+    
+}
+
+.third-step-color{
+    padding-top: 50px;
+   
+}
+.text-color{
+    color: green;
+    font-weight: bolder;
+}
+.card-title{
+    font-weight: bolder;
+}
+.forth-step{
+    background-color: #53a92c;
+    height: 220px;
+}
+
+.fifth-step{
+    background-color: #f7f7f7;
+    height: 600px;
+    margin-bottom: 150px;
+}
